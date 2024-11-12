@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/imu_driver.dir/src/main.c.o CMakeFiles/imu_driver.dir/src/functions.c.o -o imu_driver  -lncurses 

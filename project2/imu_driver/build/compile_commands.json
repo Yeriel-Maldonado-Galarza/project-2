@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/ymaldo/Downloads/project2/imu_driver/build",
+  "command": "/usr/bin/gcc  -I/home/ymaldo/Downloads/project2/imu_driver/include -g -o CMakeFiles/imu_driver.dir/src/main.c.o -c /home/ymaldo/Downloads/project2/imu_driver/src/main.c",
+  "file": "/home/ymaldo/Downloads/project2/imu_driver/src/main.c",
+  "output": "CMakeFiles/imu_driver.dir/src/main.c.o"
+},
+{
+  "directory": "/home/ymaldo/Downloads/project2/imu_driver/build",
+  "command": "/usr/bin/gcc  -I/home/ymaldo/Downloads/project2/imu_driver/include -g -o CMakeFiles/imu_driver.dir/src/functions.c.o -c /home/ymaldo/Downloads/project2/imu_driver/src/functions.c",
+  "file": "/home/ymaldo/Downloads/project2/imu_driver/src/functions.c",
+  "output": "CMakeFiles/imu_driver.dir/src/functions.c.o"
+}
+]

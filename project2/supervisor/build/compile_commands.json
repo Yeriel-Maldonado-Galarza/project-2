@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/ymaldo/Downloads/project2/supervisor/build",
+  "command": "/usr/bin/gcc  -I/home/ymaldo/Downloads/project2/supervisor/include -g -o CMakeFiles/supervisor.dir/src/main.c.o -c /home/ymaldo/Downloads/project2/supervisor/src/main.c",
+  "file": "/home/ymaldo/Downloads/project2/supervisor/src/main.c",
+  "output": "CMakeFiles/supervisor.dir/src/main.c.o"
+},
+{
+  "directory": "/home/ymaldo/Downloads/project2/supervisor/build",
+  "command": "/usr/bin/gcc  -I/home/ymaldo/Downloads/project2/supervisor/include -g -o CMakeFiles/supervisor.dir/src/functions.c.o -c /home/ymaldo/Downloads/project2/supervisor/src/functions.c",
+  "file": "/home/ymaldo/Downloads/project2/supervisor/src/functions.c",
+  "output": "CMakeFiles/supervisor.dir/src/functions.c.o"
+}
+]

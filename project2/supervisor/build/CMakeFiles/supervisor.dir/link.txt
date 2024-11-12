@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/supervisor.dir/src/main.c.o CMakeFiles/supervisor.dir/src/functions.c.o -o supervisor  -lncurses 
